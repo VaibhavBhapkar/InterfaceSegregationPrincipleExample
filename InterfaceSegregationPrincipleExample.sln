@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeePortal_Without_ISP", "InterfaceSegregationPrincipleExample\EmployeePortal_Without_ISP.csproj", "{7D1B052D-BA51-41AF-B53E-3755DC143A3B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeePortal_With_ISP", "EmployeePortal_With_ISP\EmployeePortal_With_ISP.csproj", "{C663FA1B-4770-4FCB-A63F-A0E9D6D2D0CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D1B052D-BA51-41AF-B53E-3755DC143A3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D1B052D-BA51-41AF-B53E-3755DC143A3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D1B052D-BA51-41AF-B53E-3755DC143A3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D1B052D-BA51-41AF-B53E-3755DC143A3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C663FA1B-4770-4FCB-A63F-A0E9D6D2D0CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C663FA1B-4770-4FCB-A63F-A0E9D6D2D0CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C663FA1B-4770-4FCB-A63F-A0E9D6D2D0CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C663FA1B-4770-4FCB-A63F-A0E9D6D2D0CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9636F3A0-8F19-46F4-9D8A-D51E9AF5845A}
+	EndGlobalSection
+EndGlobal
